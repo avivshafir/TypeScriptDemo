@@ -1,0 +1,10 @@
+{
+  "name": "TypeScriptInterfacesMore",
+  "version": "0.0.0",
+  "description": "TypeScriptInterfacesMore",
+  "main": "app.js",
+  "author": {
+    "name": "VAX",
+    "email": ""
+  }
+}
